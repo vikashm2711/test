@@ -1,0 +1,5 @@
+git status
+git init
+git status
+git add
+git remote add origin
